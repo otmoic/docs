@@ -1,0 +1,19 @@
+---
+sidebar_position: 1
+---
+
+# Obridge: RFQ Network for Web3
+
+Obridge is a decentralized and automated request for quote (RFQ) network that supports secure cross-chain value exchanges. 
+
+As a permission-less, automated trading network based on atomic swap contracts, Obridge can facilitate exchanges between any pair of L1 or L2 blockchains *without* using asset pools. Compared to other bridge solutions, especially those based on a liquidity pool or lock-and-mint mechanism, Obridge is:
+
+* Much safer
+* Faster (especially for withdrawals)
+* Cheaper
+* More censorship resistant
+* More capital efficient
+* Polyglot (i.e., supports non-EVM native assets)
+* Easier to use
+
+Next, let's learn how Obridge works as a DEX and a bridge.
