@@ -9,7 +9,7 @@ const config = {
   title: 'Obridge Docs',
   tagline: 'Dinosaurs are cool',
   url: 'https://obridge-io.github.io/',
-  baseUrl: '/docs',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
