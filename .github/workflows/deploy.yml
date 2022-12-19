@@ -2,16 +2,20 @@ name: CI
 on: [push]
 
 jobs:
-  deploy:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - uses: redkubes/docusaurus-deploy-action@v1
-        with:
-          source-folder: .
-          git-user: obridgedocs
-          git-password: ${{ secrets.GITHUB_TOKEN }}
-          deployment-branch: gh-pages
+      - name: Build
+        run: |
+          npm install
+          npm run build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with: 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+  
