@@ -8,18 +8,18 @@ As discussed before, a unique feature of Obridge is the atomic swap design. Afte
 
 The first step is to lock your token from the source chain into the HTLC contract. Then, click the LOCK button and pay the gas fee from the source chain via MetaMask.
 
-![](atomic-swap-01.jpeg)
+![](./atomic-swap-01.jpeg)
 
 The second step is to deploy a contract that locks the corresponding token from your target chain by the Bridge Node. You don't need to take care of this step here.
 
-![](atomic-swap-02.jpeg)
+![](./atomic-swap-02.jpeg)
 
 The third step is to release the token from your sourced chain to the Bridge Node since we have matched a LP. Then, click the CONFIRM button to pay the gas fee from the source chain again via MetaMask. You DO NOT need to change the target chain as other bridges.
 
-![](atomic-swap-03.jpeg)
+![](./atomic-swap-03.jpeg)
 
 The fourth step is to wait for the Bride Node to release the token from your targeted chain. If you don't customize the receiving address, you will see the token on your current MetaMask address soon.
 
-![](atomic-swap-04.jpeg)
+![](./atomic-swap-04.jpeg)
 
 When you see the Finished comes up, you could go to MetaMask and check out your address balance from both chains. Don't forget to change the network on MetaMask.
