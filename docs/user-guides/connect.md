@@ -16,14 +16,14 @@ https://alpha.obridge.io/
 
 Next, click the CONNECT WALLET button on the right top of the app page.
 
-![](click-connect-wallet.ong)
+![](./click-connect-wallet.ong)
 
 Then, the MetaMask Chrome Extension will pop on two confirmation pages continuously. Click the Next button, and then, the Connect button to process.
 
-![](confirm-metamask.jpeg)
+![](./confirm-metamask.jpeg)
 
 After that, you will see your wallet address on the right top of the page, which means you connect your wallet successfully.
 
-![](connection-done.png)
+![](./connection-done.png)
 
 Next, let's swap your token to another chain.
