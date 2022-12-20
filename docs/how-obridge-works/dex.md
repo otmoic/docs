@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# How Obridge works as a DEX
+# Obridge works as a DEX
 
 Because Obridge is a decentralized and automated RFQ network, using it as a DEX is straightforward.
 

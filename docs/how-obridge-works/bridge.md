@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How Obridge works as a Bridge
+# Obridge works as a Bridge
 
 As an automated trading network, Obridge could be a DEX. There is no doubt that Obridge could act as a bridge, a particular case of DEX.  
 
