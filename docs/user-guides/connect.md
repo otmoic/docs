@@ -16,7 +16,7 @@ https://alpha.obridge.io/
 
 Next, click the CONNECT WALLET button on the right top of the app page.
 
-![](./click-connect-wallet.ong)
+![](./click-connect-wallet.png)
 
 Then, the MetaMask Chrome Extension will pop on two confirmation pages continuously. Click the Next button, and then, the Connect button to process.
 
