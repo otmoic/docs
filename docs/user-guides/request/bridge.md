@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Request tokens exchange in the way of Bridge
+# Request A Token exchange in the way of Bridge
 
 > Before you start, please make sure the tokens you want to transfer are already in your wallet.
 
