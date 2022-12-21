@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-# HHow LP Node Works
+# How LP Node Works
