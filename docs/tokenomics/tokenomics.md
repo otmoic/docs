@@ -12,7 +12,7 @@ Otomic’s tokenomics are quite simple and essentially revolve around users payi
 
   For example:
 
-    - A telegram trading bot will require coin payments to execute trading strategies for you.
+  ⇥ - A telegram trading bot will require coin payments to execute trading strategies for you.
 
     - A bridge LP node is a bot on the network. The transaction fee collected by the network (paid by the retail user on the other side of the trade) is in coins.
 
