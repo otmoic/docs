@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 1
 ---
 # What is Otomic?
 
@@ -11,7 +11,7 @@ To supply users with high-quality bots from which to choose, Otomic hosts a dece
 
 Manually trading assets is inefficient and relies on error-prone human judgment. Thus, trading bots enable users to implement automated trading strategies that save time and improve outcomes.
 
-Moreover, Otomic’s easy-to-understand tokenomics provides transparency for how value is transferred in the ecosystem. For example, Otomic coins offer clear utility – they enable users to employ bots to manage and optimize trading activity.
+Moreover, Otomic’s easy-to-understand tokenomics provides transparency for how value is transferred in the Otomic ecosystem. For example, Otomic coins offer clear utility – they enable users to employ bots to manage and optimize trading activity.
 
 ## How Does Otomic Work?
 
