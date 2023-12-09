@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-/---
+---
 # What is Otomic?
 
 Otomic is a network of trading bots. These bots interact with each other by automatically quoting and bidding on prices. Users pay coins to use bots to trade on their behalf. 
