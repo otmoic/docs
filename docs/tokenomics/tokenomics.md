@@ -10,7 +10,7 @@ Otomic’s tokenomics are quite simple and essentially revolve around users payi
 
 2. All the bots on the Otomic network will take Otomic coins as payment.
 
-For example:
+    For example:
 
 - A telegram trading bot will require coin payments to execute trading strategies for you.
 
