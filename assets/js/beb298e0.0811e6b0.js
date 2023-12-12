@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1982],{5975:e=>{e.exports=JSON.parse('{"title":"Use Cases - NEW","slug":"/category/use-cases---new","permalink":"/docs/category/use-cases---new","navigation":{"previous":{"title":"What is Otomic?","permalink":"/docs/overview/"},"next":{"title":"Use Cases","permalink":"/docs/use-cases/"}}}')}}]);
