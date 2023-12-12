@@ -18,3 +18,5 @@ Moreover, Otomic’s easy-to-understand tokenomics provides transparency for how
 Users pay to use bots to facilitate various use cases, such as trading on DEXs or performing cross-chain transactions.
 
 Anyone can develop Otomic bots, and the best-performing bots will become most popular on Otomic’s bot marketplace.
+
+...
