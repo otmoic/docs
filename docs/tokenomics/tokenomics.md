@@ -5,7 +5,7 @@ sidebar_position: 1
 Otomic’s tokenomics are quite simple and essentially revolve around users paying to use bots with Otomic tokens. Thus, Otomic tokens have a clear utility.
 
 
-# Detailed Explanation
+# Explanation
 1. There is a fixed total supply of coins. It is allocated to investors, the Otomic team, and the community.
 
 2. All the bots on the Otomic network will take Otomic coins as payment.
